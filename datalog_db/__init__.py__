@@ -1,0 +1,1 @@
+"""datalog-db — Datalog query engine with semi-naive evaluation and stratified negation"""
